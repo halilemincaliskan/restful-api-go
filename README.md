@@ -1,2 +1,6 @@
 # restful-api-go
 Restful Api with Go
+
+# Özel Anahtar Kodu
+gAAAAABgZG9Pc-hOPraRo4MPchmmdn4Y2ckQnoX9DcDTHhS1b-AGqtEej6yRBflweiu3fk-uHcfQTTfBy8smpicJurfacck-Wc9EtdYdaVeECzwzd_qLXaaVNV1eY_GJH5ZO1_ZZ
+OSnRTc2K9Fn_g_6-FnWziHV8G0eUIk9h0v7lYHovk8HROBh8qfVCcCplAs9YVi87m-0mvtpvvhNYj57n_rZfYHz4-w==
